@@ -30,8 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [My Solution](https://xolanixad.github.io/social-proof-section-master/)
 
 ## My process
 
@@ -40,7 +39,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 
 ### What I learned
 
@@ -70,8 +68,7 @@ I aim to improve upon writing fewer lines of code to increase efficiency. I also
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@XolaniXAD](https://www.frontendmentor.io/profile/XolaniXAD)
 
 ## Acknowledgments
 
